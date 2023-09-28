@@ -1,0 +1,184 @@
+body {
+    background-color: #FFFF;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+}
+
+
+/*classes*/
+
+.paragraph{
+    font-weight: lighter;
+   color: #747373;
+}
+.highlight{
+    color: #FF0048; 
+    font-weight: bold;
+}
+
+.Tekst
+{
+    margin: 0px 0px 0px 10px;
+}
+
+.Links1{
+    margin: 15px 15px 10px 15px;
+}
+
+.Bestel{
+    margin: 0px 0px 0px 120px;
+}
+
+.navigation {
+  
+    margin: 0px 0px 10px 0px;
+}
+
+.navigation a {
+    padding: 2px;
+    background: #FFFF;
+    color: #747373;
+    text-decoration: none;
+    border-radius: 4px;
+    width: 140px;
+    display:block; 
+    float: left;
+    text-align: center;
+}
+.navi {
+    margin: 0px 16px 0px 0px;
+}
+
+.navi a {
+    padding: 2px;
+    background: #FF0048;
+    color: #FFFF;
+    text-decoration: none;
+    border-radius: 4px;
+    width: 140px;
+    display:block; 
+    float: left;
+    text-align: center;
+}
+
+
+
+.BestelButton {
+    height: 30px;
+    margin: 0px 0px 10px 0px;
+}
+
+.BestelButton a {
+    padding: 2px;
+    background: #FF0048;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 4px;
+    width: 118px;
+    display: block;
+    float: left;
+    text-align: center;
+}
+
+.Last a{
+text-decoration: none;
+color: #FFFF
+}
+
+.LastTop{
+margin: 0px 10px 0px 15px;
+}
+
+
+.LastBottom{
+ 
+    margin: 0px 60px 0px 15px;
+}
+
+.BoxBottom{
+   
+    margin: 10px 0px 0px 0px;
+}
+
+
+/*ID's*/
+
+#Button1{
+    margin: 0px 0px 0px 0px;
+}
+
+#Inloggen{
+    float: right;
+}
+
+#colourBox1{
+   background-image: url(Img/background\ green.jpg);
+   background-repeat: no-repeat;
+   background-position: 0% 80%
+}
+
+#colourBox2{
+    width: 600px;
+    height: 77px;
+    padding: 20px 0px 0px 0px;
+    background-color: #FABC43;
+    font-size: 9px;
+}
+
+#box_background{
+    
+    margin: 0px auto;
+    width: 600px;
+    height: 1200px;
+    background: #F7F5F5;
+}
+
+#Box1{
+    margin: 0px 0px 0px 15px;
+    border-radius: 4px;
+    float: left;
+    width: 275px;
+    height: 302px;
+    font-size: 11px;
+    background: #ffff;
+    padding: 0px 0px 10px 0px;
+}
+
+#Box2{ 
+     margin: 0px 15px 0px 0px;
+    border-radius: 4px;
+    float: right;
+    width: 275px;
+    height: 302px;
+    font-size: 11px;
+    background: #ffff;
+    padding: 0px 0px 10px 0px;
+ 
+
+}
+
+#NieuwsbriefButton{
+    margin: 0px 0px 0px 70px;
+}
+
+#Box3 {
+    width: 307px;
+    float: left;
+    margin: 13px 0px 25px 25px;
+}
+
+#video {
+margin: 400px 0px 60px 70px;
+}
+
+#Hamster {
+  margin: 60px 0px 0px 340px;  
+}
+
+
+#Logo{
+  float: right;
+   margin: 0px 15px 0px 0px;
+}
+
